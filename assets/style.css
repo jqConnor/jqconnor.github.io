@@ -1,0 +1,27 @@
+/* reset default browser styles */
+* {
+  margin: 0;    /* removes default margins */
+}
+
+/* global body styles */
+body {
+  line-height: 1.5;    /* Text line spacing */
+  padding: 20px;    /* Internal spacing */
+}
+
+.math{
+  margin-top:20px;
+  margin-bottom: 20px
+}
+
+.list_of_work{
+  margin-left: 30px;
+}
+
+.trivia{
+  margin-left: 30px
+}
+
+.contact_information{
+  margin-left: 30px
+}
